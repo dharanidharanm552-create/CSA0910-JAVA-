@@ -1,7 +1,7 @@
 # Assignment 5 – CO5: Data Persistence Engineering (Files and Databases)
 
-**Student Name:** Moksha Dude (dudemoksha)  
-**Register Number:** 192372374  
+**Student Name: Dharanidharan.M 
+**Register Number:** 192524229
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO5  
 **Java Version:** OpenJDK 17.0.21.0.2 LTS  
